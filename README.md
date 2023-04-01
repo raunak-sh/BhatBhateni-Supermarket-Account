@@ -1,6 +1,6 @@
 # BhatBhateni-Supermarket-Billing-System
 
-Code Description
+## Code Description
 This code is a simple program for a supermarket that takes input from the user (customer) and calculates the total price, discount, and net amount for each customer. The program starts by displaying the supermarket name, location, and the current date. It then prompts the user to enter the number of customers. For each customer, the program asks for their name, address, email, and the number of items they have purchased. It then asks for the name, price, and quantity of each item and calculates the total price of all the items. The program then applies a discount based on the total price of the items and calculates the net amount. Finally, the program displays the customer's name, address, email, total price, discount, and net amount.
 
 Readme File
