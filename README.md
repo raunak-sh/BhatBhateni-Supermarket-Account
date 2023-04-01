@@ -7,12 +7,12 @@ This code is a simple program for a supermarket that takes input from the user (
 Supermarket Billing System
 This repository contains a simple Python program for a supermarket billing system. The program takes input from the user (customer) and calculates the total price, discount, and net amount for each customer.
 
-How to Use
+## How to Use
 Clone the repository to your local machine.
 Open a terminal and navigate to the directory where the repository is cloned.
 Run the following command to execute the program: python billing_system.py
 Follow the instructions in the program to input the customer information and purchase details.
-Code Structure
+## Code Structure
 The billing_system.py file contains the following functions:
 1. initialDisplay() - displays the name, location, and date of the supermarket.
 2. inputInformation() - prompts the user to enter the customer information and purchase details, and calculates the total price, discount, and net amount.
